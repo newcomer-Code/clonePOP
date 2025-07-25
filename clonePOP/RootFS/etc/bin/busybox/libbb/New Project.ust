@@ -1,0 +1,41 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=120.00
+Tracks=1
+ProjectName=New Project
+VoiceDir=%DATA%\voice\重音テト音声ライブラリー
+OutFile=newfile.wav
+CacheDir=New Project.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+[#0000]
+Length=7200
+Lyric=､｢
+NoteNum=107
+Intensity=100
+Modulation=0
+PBStart=0
+[#0001]
+Length=1620
+Lyric=114514114514114514114514
+NoteNum=75
+Intensity=100
+Modulation=0
+[#0002]
+Length=480
+Lyric=114514
+NoteNum=60
+[#0003]
+Length=900
+Lyric=､｢
+NoteNum=67
+Intensity=100
+Modulation=0
+[#0004]
+Length=3240
+Lyric=､｢
+NoteNum=91
+Intensity=100
+Modulation=0
+[#TRACKEND]
